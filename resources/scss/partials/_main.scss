@@ -1,0 +1,35 @@
+.jumbotron {
+    .container-fluid {
+        height: 200px;
+        background-size: cover;
+        background-position: top center;
+    }
+
+    h1 {
+        background-color: #3880f1;
+        position: absolute;
+        top: 99%;
+        left: 24%;
+        transform: translate(-50%, -50%);
+        color: white;
+    }
+}
+
+main {
+    background-color: #1c1c1c;
+}
+
+ul,
+li,
+menu {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+}

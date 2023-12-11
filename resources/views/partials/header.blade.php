@@ -7,34 +7,34 @@
     
             <ul class="menu d-flex gap-4 mb-0">
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Characters</a>
+                    <a href="#" class="text-uppercase text-black">Characters</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Comics</a>
+                    <a href="#" class="text-uppercase text-black">Comics</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Movies</a>
+                    <a href="#" class="text-uppercase text-black">Movies</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Tv</a>
+                    <a href="#" class="text-uppercase text-black">Tv</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Games</a>
+                    <a href="#" class="text-uppercase text-black">Games</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Collectibles</a>
+                    <a href="#" class="text-uppercase text-black">Collectibles</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Videos</a>
+                    <a href="#" class="text-uppercase text-black">Videos</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Fans</a>
+                    <a href="#" class="text-uppercase text-black">Fans</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">News</a>
+                    <a href="#" class="text-uppercase text-black">News</a>
                 </li>
                 <li class="menu-item">
-                    <a href="#" class="text-uppercase text-decoration-none text-black">Shop</a>
+                    <a href="#" class="text-uppercase text-black">Shop</a>
                 </li>
             </ul>
         </nav>
